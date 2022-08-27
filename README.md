@@ -1,6 +1,6 @@
 # Engineer_notes
 
-I target to **upload what I feel curious about and what I've learned every single day** from August, 27th, 2022.
+I target to _**upload what I feel curious about and what I've learned every single day**_ from August, 27th, 2022.
 
 | Title | Types | Link | Date |
 | :----------- | :------------: | :------------: | :------------: |
