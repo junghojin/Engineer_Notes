@@ -6,7 +6,7 @@
 > Happy Coding 💙! Happy Learning 🎈!<br/><br/>
 
 | Title | Types | Link | Date | 
-| :----------- | :------------: | :------------: | :------------: |
+| :-----------: | :------------: | :------------: | :------------: |
 | Redis란 뭘까? - 1  |   ```DB```   | [link](https://velog.io/@jungedlin/Redis란-뭘까-1) | 2022.08.27 | 
 | Redis Architecture - 2   |    ```DB```    |  [link](https://velog.io/@jungedlin/Redis란-뭘까-2) | 2022.08.28 |
 | Big data에 대한 소개  |    ```BigData```, ```Hadoop```   |  [link](https://velog.io/@jungedlin/Hadoop1) | 2022.08.28 |
