@@ -13,7 +13,8 @@
 | **Redis Architecture - 2**  |    ```DB```    |  [link](https://velog.io/@jungedlin/Redis란-뭘까-2) | 2022.08.28 |
 | **Big data에 대한 소개**  |    ```BigData```, ```Hadoop```   |  [link](https://velog.io/@jungedlin/Hadoop1) | 2022.08.29 |
 | **HDFS** |   ```Hadoop```   |  [link](https://velog.io/@jungedlin/Hadoop2) | 2022.08.30 |
-| **HDFS 명령어, 블록이란 뭘까?** |  ```Hadoop```   |  [link](https://velog.io/@jungedlin/Hadoo3) | 2022.08.31 |
+| **HDFS 명령어, 블록이란 뭘까?** |  ```Hadoop```   |  [link](https://velog.io/@jungedlin/Hadoop3) | 2022.08.31 |
 | **백준 16562 - 친구비** |  ```Algorithm```, ```Union&Find```   |  [link](https://velog.io/@jungedlin/백준-16562-친구비) | 2022.09.01 |
+| **Source download vs. Binary download** |  ```기타```  |  [link](https://velog.io/@jungedlin/백준-16562-친구비) | 2022.09.02 |
 | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/Hadoop2) | 2022.09.04 |
 
