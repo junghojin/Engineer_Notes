@@ -14,16 +14,22 @@
 |:-----------: | :------------: | :------------: |
 |1.| **would be updated soon** | [link]() |
 
+---
+
 #### DB
 | No. |Title | Link |
 |:-----------: |:-----------: | :------------: |
 |1. |**Redis란 뭘까? - 1**  |[link](https://velog.io/@jungedlin/Redis란-뭘까-1) |
 |2. |**Redis Architecture - 2**  |[link](https://velog.io/@jungedlin/Redis란-뭘까-2) |
 
+---
+
 #### Network
 | No. |Title | Link |
 |:-----------: | :------------: | :------------: |
 |1.| **would be updated soon** | [link]() |
+
+---
 
 #### Algorithm
 | No. |Title | Types | Link |
@@ -31,17 +37,23 @@
 |1.| **백준 16562 - 친구비** |  ```Union&Find```   |  [link](https://velog.io/@jungedlin/백준-16562-친구비) | 
 |2.| **플러드필 알고리즘** |```BFS```|[link](https://velog.io/@jungedlin/FloodFill) |
 
+---
+
 #### BigData
 | No. |Title | Link |
 |:-----------: | :------------: | :------------: |
 |1. |**HDFS** |[link](https://velog.io/@jungedlin/Hadoop2) |
 |2. |**HDFS 명령어, 블록이란 뭘까?** |[link](https://velog.io/@jungedlin/Hadoop3)|
 
+---
+
 #### 기타 (ETC.)
 | No. |Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
-|1. | **Source download vs. Binary download** |  ```기타```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) |
-|2. | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 2022.09.04 |
+|1. | **Source download vs. Binary download** |  ```Linux```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) |
+|2. | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 
+
+---
 
 ### 날짜 별 목록
 <details markdown="1"> 
