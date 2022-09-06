@@ -7,7 +7,7 @@
 > 코드 공유가 필요한 경우 git을 활용하겠습니다! <br/><br/>
 > **Happy Coding 💙! Happy Learning 🎈!**<br/><br/>
 
-### 🗓 날짜 별 목록
+## 🗓 날짜 별 목록
 <details markdown="1"> 
 <summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
 
@@ -26,8 +26,9 @@
 </details>
 
 ---
+<br/>
 
-### 🗂 유형 별 목록
+## 🗂 유형 별 목록
 
 #### Spring
 <details markdown="1"> 
