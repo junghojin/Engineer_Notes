@@ -9,6 +9,8 @@
 
 ### 날짜 별 목록
 <details markdown="1"> 
+<summary> **🗓 날짜별 목록** </summary>
+
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
 | **플러드필 알고리즘** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/FloodFill) | 2022.09.05 |
