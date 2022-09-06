@@ -9,7 +9,7 @@
 
 ### 날짜 별 목록
 <details markdown="1"> 
-<summary> **🗓 날짜별 목록** </summary>
+<summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
