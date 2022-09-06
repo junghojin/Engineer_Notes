@@ -28,51 +28,80 @@
 ---
 
 ### 유형 별 목록
+
 #### Spring
+<details markdown="1"> 
+<summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
+
 | No. |Title | Link |
 |:-----------: | :------------: | :------------: |
 |1.| **would be updated soon** | [link]() |
 
+</summary>
+
 ---
 
 #### DB
+<details markdown="1"> 
+<summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
+
 | No. |Title | Link |
 |:-----------: |:-----------: | :------------: |
 |1. |**Redis란 뭘까? - 1**  |[link](https://velog.io/@jungedlin/Redis란-뭘까-1) |
 |2. |**Redis Architecture - 2**  |[link](https://velog.io/@jungedlin/Redis란-뭘까-2) |
 
+</summary>
+
 ---
 
 #### Network
+<details markdown="1"> 
+<summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
+
 | No. |Title | Link |
 |:-----------: | :------------: | :------------: |
 |1.| **would be updated soon** | [link]() |
 
+</summary>
+
 ---
 
 #### Algorithm
+<details markdown="1"> 
+<summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
+
 | No. |Title | Types | Link |
 |:-----------: |:-----------: | :------------: | :------------: |
 |1.| **백준 16562 - 친구비** |  ```Union&Find```   |  [link](https://velog.io/@jungedlin/백준-16562-친구비) | 
 |2.| **플러드필 알고리즘** |```BFS```|[link](https://velog.io/@jungedlin/FloodFill) |
 
+</summary>
+
 ---
 
 #### BigData
+<details markdown="1"> 
+<summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
+
 | No. |Title | Link |
 |:-----------: | :------------: | :------------: |
 |1. |**HDFS** |[link](https://velog.io/@jungedlin/Hadoop2) |
 |2. |**HDFS 명령어, 블록이란 뭘까?** |[link](https://velog.io/@jungedlin/Hadoop3)|
 
+</summary>
+
 ---
 
 #### 기타 (ETC.)
+<details markdown="1"> 
+<summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
+
 | No. |Title | Types | Link | 
 | :-----------: | :------------: | :------------: | :------------: |
 |1. | **Source download vs. Binary download** |  ```Linux```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) |
 |2. | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 
 
----
+</summary>
 
 
 
