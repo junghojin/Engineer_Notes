@@ -10,7 +10,7 @@
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
-| **Kafka란 무엇일까?** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.06 |
+| **Kafka1 - Event Streaming** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.06 |
 | **플러드필 알고리즘** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/FloodFill) | 2022.09.05 |
 | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 2022.09.04 |
 | **Source download vs. Binary download** |  ```기타```  |  [link](https://velog.io/@jungedlin/백준-16562-친구비) | 2022.09.02 |
@@ -82,7 +82,7 @@
 |:-----------: | :------------: | :------------: |
 |1. |**HDFS** |[link](https://velog.io/@jungedlin/Hadoop2) |
 |2. |**HDFS 명령어, 블록이란 뭘까?** |[link](https://velog.io/@jungedlin/Hadoop3)|
-|3.  |**Kafka란 무엇일까?** |[link](https://velog.io/@jungedlin/Kafka1) |
+|3.  |**Kafka1 - Event Streaming** |[link](https://velog.io/@jungedlin/Kafka1) |
 </details>
 
 ---
