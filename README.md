@@ -25,7 +25,7 @@
 ---
 <br/>
 
-## 🗂 유형 별 목록
+## 🗂 유형 별 분류
 
 #### Spring
 <details markdown="1"> 
