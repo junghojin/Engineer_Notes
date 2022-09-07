@@ -7,8 +7,6 @@
 > **Happy Coding 💙! Happy Learning 🎈!**<br/><br/>
 
 ## 🗓 날짜 별 목록
-<details markdown="1"> 
-<summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
@@ -23,7 +21,6 @@
 | **Redis Architecture - 2**  |    ```DB```    |  [link](https://velog.io/@jungedlin/Redis란-뭘까-2) | 2022.08.28 |
 | **Redis란 뭘까? - 1**  |   ```DB```   | [link](https://velog.io/@jungedlin/Redis란-뭘까-1) | 2022.08.27 | 
 
-</details>
 
 ---
 <br/>
