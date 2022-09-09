@@ -10,7 +10,7 @@
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
-| **Kafka3 - Broker / Replication** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka3) | 2022.09.08 |
+| **Kafka3 - Broker, Producer, Consumer** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka3) | 2022.09.08 |
 | **Kafka2 - 서버와 클라이언트 / Topic** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka2) | 2022.09.07 |
 | **Kafka1 - Event Streaming** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.06 |
 | **플러드필 알고리즘** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/FloodFill) | 2022.09.05 |
