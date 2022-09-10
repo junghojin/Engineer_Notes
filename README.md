@@ -16,7 +16,7 @@
 | **Kafka1 - Event Streaming** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.06 |
 | **플러드필 알고리즘** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/FloodFill) | 2022.09.05 |
 | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 2022.09.04 |
-| **Source download vs. Binary download** |  ```기타```  |  [link](https://velog.io/@jungedlin/백준-16562-친구비) | 2022.09.02 |
+| **Source download vs. Binary download** |  ```기타```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) | 2022.09.02 |
 | **백준 16562 - 친구비** |  ```Algorithm```, ```Union&Find```   |  [link](https://velog.io/@jungedlin/백준-16562-친구비) | 2022.09.01 |
 | **HDFS 명령어, 블록이란 뭘까?** |  ```Hadoop```   |  [link](https://velog.io/@jungedlin/Hadoop3) | 2022.08.31 |
 | **HDFS** |   ```Hadoop```   |  [link](https://velog.io/@jungedlin/Hadoop2) | 2022.08.30 |
