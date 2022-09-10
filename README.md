@@ -10,6 +10,7 @@
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
+| **MST 1 - Kruskal** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/Kruskal) | 2022.09.10 |
 | **Kafka3 - Broker, Producer, Consumer** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka3) | 2022.09.08 |
 | **Kafka2 - 서버와 클라이언트 / Topic** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka2) | 2022.09.07 |
 | **Kafka1 - Event Streaming** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.06 |
@@ -72,6 +73,7 @@
 |:-----------: |:-----------: | :------------: | :------------: |
 |1.| **백준 16562 - 친구비** |  ```Union&Find```   |  [link](https://velog.io/@jungedlin/백준-16562-친구비) | 
 |2.| **플러드필 알고리즘** |```BFS```|[link](https://velog.io/@jungedlin/FloodFill) |
+|3.| **MST 1 - Kruskal** |  ```MST```   |  [link](https://velog.io/@jungedlin/Kruskal) |
 </details>
 
 ---
