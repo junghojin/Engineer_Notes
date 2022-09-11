@@ -10,10 +10,11 @@
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
+| **Kafka1 - Kafka 역사와 특징** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.11 |
 | **MST 1 - Kruskal** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/Kruskal) | 2022.09.10 |
-| **Kafka3 - Broker, Producer, Consumer** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka3) | 2022.09.08 |
-| **Kafka2 - 서버와 클라이언트 / Topic** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka2) | 2022.09.07 |
-| **Kafka1 - Event Streaming** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.06 |
+| **Kafka4 - Broker, Producer, Consumer** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka4) | 2022.09.08 |
+| **Kafka3 - 서버와 클라이언트 / Topic** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka3) | 2022.09.07 |
+| **Kafka2 - Event Streaming** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka2) | 2022.09.06 |
 | **플러드필 알고리즘** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/FloodFill) | 2022.09.05 |
 | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 2022.09.04 |
 | **Source download vs. Binary download** |  ```기타```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) | 2022.09.02 |
@@ -86,9 +87,10 @@
 |:-----------: | :------------: | :------------: |
 |1. |**HDFS** |[link](https://velog.io/@jungedlin/Hadoop2) |
 |2. |**HDFS 명령어, 블록이란 뭘까?** |[link](https://velog.io/@jungedlin/Hadoop3)|
-|3.  |**Kafka1 - Event Streaming** |[link](https://velog.io/@jungedlin/Kafka1) |
-|4. |  **Kafka2 - 서버와 클라이언트 / Topic** |  [link](https://velog.io/@jungedlin/Kafka2) | 
-|5. | **Kafka3 - Broker / Replication** |  [link](https://velog.io/@jungedlin/Kafka3) |
+|3. | **Kafka1 - Kafka 역사와 특징** | [link](https://velog.io/@jungedlin/Kafka1) |
+|4.  |**Kafka2 - Event Streaming** |[link](https://velog.io/@jungedlin/Kafka2) |
+|5. |  **Kafka3 - 서버와 클라이언트 / Topic** |  [link](https://velog.io/@jungedlin/Kafka3) | 
+|6. | **Kafka4 - Broker / Replication / Producer / Consumer** |  [link](https://velog.io/@jungedlin/Kafka4) |
 </details>
 
 ---
