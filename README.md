@@ -10,6 +10,8 @@
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
+ **[Java] 데몬 쓰레드 vs. 사용자 쓰레드** |  ```Java```   |  [link](https://velog.io/@jungedlin/) | 2022.09.15 |
+| **Kafka1 - Kafka 역사와 특징** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.12 |
 | **Kafka1 - Kafka 역사와 특징** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.11 |
 | **MST 1 - Kruskal** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/Kruskal) | 2022.09.10 |
 | **Kafka4 - Broker, Producer, Consumer** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka4) | 2022.09.08 |
