@@ -106,7 +106,7 @@
 | :-----------: | :------------: | :------------: | :------------: |
 |1. | **Source download vs. Binary download** |  ```Linux```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) |
 |2. | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 
-|3. |  **빠른 VM 부팅을 위한 API, Fly Machines| ```VM``` | [link](https://velog.io/@jungedlin/2-Fly-Machines)|
+|3. |  **빠른 VM 부팅을 위한 API, Fly Machines** | ```VM``` | [link](https://velog.io/@jungedlin/2-Fly-Machines)|
 </details>
 
 
