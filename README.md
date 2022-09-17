@@ -10,7 +10,8 @@
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
- **[Java] 데몬 쓰레드 vs. 사용자 쓰레드** |  ```Java```   |  [link](https://velog.io/@jungedlin/) | 2022.09.15 |
+| **빠른 VM 부팅을 위한 API, Fly Machines| ```Tech Talk``` | [link](https://velog.io/@jungedlin/2-Fly-Machines)|2022.09.17|
+| **데몬 쓰레드 vs. 사용자 쓰레드** |  ```Java```   |  [link](https://velog.io/@jungedlin/) | 2022.09.15 |
 | **Kafka1 - Kafka 역사와 특징** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.12 |
 | **Kafka1 - Kafka 역사와 특징** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.11 |
 | **MST 1 - Kruskal** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/Kruskal) | 2022.09.10 |
@@ -19,7 +20,7 @@
 | **Kafka2 - Event Streaming** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka2) | 2022.09.06 |
 | **플러드필 알고리즘** |  ```Algorithm```   |  [link](https://velog.io/@jungedlin/FloodFill) | 2022.09.05 |
 | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 2022.09.04 |
-| **Source download vs. Binary download** |  ```기타```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) | 2022.09.02 |
+| **Source download vs. Binary download** |  ```Tech Talk```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) | 2022.09.02 |
 | **백준 16562 - 친구비** |  ```Algorithm```, ```Union&Find```   |  [link](https://velog.io/@jungedlin/백준-16562-친구비) | 2022.09.01 |
 | **HDFS 명령어, 블록이란 뭘까?** |  ```Hadoop```   |  [link](https://velog.io/@jungedlin/Hadoop3) | 2022.08.31 |
 | **HDFS** |   ```Hadoop```   |  [link](https://velog.io/@jungedlin/Hadoop2) | 2022.08.30 |
@@ -97,7 +98,7 @@
 
 ---
 
-#### 기타 (ETC.)
+#### Tech Talk
 <details markdown="1"> 
 <summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
 
@@ -105,6 +106,7 @@
 | :-----------: | :------------: | :------------: | :------------: |
 |1. | **Source download vs. Binary download** |  ```Linux```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) |
 |2. | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 
+|3. |  **빠른 VM 부팅을 위한 API, Fly Machines| ```VM``` | [link](https://velog.io/@jungedlin/2-Fly-Machines)|
 </details>
 
 
