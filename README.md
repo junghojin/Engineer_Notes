@@ -10,6 +10,8 @@
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
+| **자바 쓰레드를 구현과 쓰레드 개수에 대한 고찰** | ```Java``` | [link](https://velog.io/@jungedlin/Java-Thread)|2022.09.20|
+| **Jsoup - Java Html Crawler & Parser** | ```Java``` | [link](https://velog.io/@jungedlin/Jsoup)|2022.09.19|
 | **빠른 VM 부팅을 위한 API (FaaS), Fly Machines** | ```Tech Talk``` | [link](https://velog.io/@jungedlin/2-Fly-Machines)|2022.09.17|
 | **데몬 쓰레드 vs. 사용자 쓰레드** |  ```Java```   |  [link](https://velog.io/@jungedlin/) | 2022.09.15 |
 | **Kafka1 - Kafka 역사와 특징** |  ```BigData```   |  [link](https://velog.io/@jungedlin/Kafka1) | 2022.09.12 |
@@ -58,13 +60,15 @@
 
 ---
 
-#### Network
+#### Java
 <details markdown="1"> 
 <summary> ☑️ 토글을 누르시면 목록이 나타납니다. </summary>
 
 | No. |Title | Link |
 |:-----------: | :------------: | :------------: |
-|1.| **would be updated soon** | [link]() |
+
+|1. | **Jsoup - Java Html Crawler & Parser** | [link](https://velog.io/@jungedlin/Jsoup)|
+|2. | **자바 쓰레드를 구현과 쓰레드 개수에 대한 고찰** |[link](https://velog.io/@jungedlin/Java-Thread)|
 </details>
 
 ---
