@@ -10,6 +10,7 @@
 
 | Title | Types | Link | Date | 
 | :-----------: | :------------: | :------------: | :------------: |
+| ** 도커를 이해하고 도커이미지를 만들어보자. ** | ```Tech Talk```| [link](https://velog.io/@jungedlin/Docker)| 2022.09.24|
 | **자바 쓰레드를 구현과 쓰레드 개수에 대한 고찰** | ```Java``` | [link](https://velog.io/@jungedlin/Java-Thread)|2022.09.20|
 | **Jsoup - Java Html Crawler & Parser** | ```Java``` | [link](https://velog.io/@jungedlin/Jsoup)|2022.09.19|
 | **빠른 VM 부팅을 위한 API (FaaS), Fly Machines** | ```Tech Talk``` | [link](https://velog.io/@jungedlin/2-Fly-Machines)|2022.09.17|
@@ -110,7 +111,8 @@
 | :-----------: | :------------: | :------------: | :------------: |
 |1. | **Source download vs. Binary download** |  ```Linux```  |  [link](https://velog.io/@jungedlin/Source-vs-Binary) |
 |2. | **RESTful API란 도대체 뭘까?** |  ```RESTful```   |  [link](https://velog.io/@jungedlin/REST-API) | 
-|3. |  **빠른 VM 부팅을 위한 API, Fly Machines** | ```VM``` | [link](https://velog.io/@jungedlin/2-Fly-Machines)|
+|3. | **빠른 VM 부팅을 위한 API, Fly Machines** | ```VM``` | [link](https://velog.io/@jungedlin/2-Fly-Machines)|
+|4. | ** 도커를 이해하고 도커이미지를 만들어보자. ** | [link](https://velog.io/@jungedlin/Docker)|
 </details>
 
 
