@@ -1,6 +1,6 @@
 # Engineer Notes
 
-> I target to _**consistently recored and upload my learnings and curiosities steadily**_ from November, 23rd, 2024. <br/><br/>
+> I target to _**consistently record and upload my learnings and curiosities steadily**_ from November, 23rd, 2024. <br/><br/>
 > 
 > **Happy Coding 💙! Happy Learning 🎈!**<br/><br/>
 
